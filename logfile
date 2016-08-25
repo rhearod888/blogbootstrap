@@ -1,0 +1,16 @@
+LOG:  database system was shut down at 2016-08-24 12:14:42 PHT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-08-24 20:01:24 PHT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  database "cluedo_development" already exists
+STATEMENT:  CREATE DATABASE "cluedo_development" ENCODING = 'utf8'
+ERROR:  database "cluedo_test" already exists
+STATEMENT:  CREATE DATABASE "cluedo_test" ENCODING = 'utf8'
